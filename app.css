@@ -209,10 +209,10 @@ p {
     .bg-desktop {
         position: absolute;
         width: 38rem;
-        margin-left: 12rem;
+        margin-left: 6rem;
         margin-top: -1rem;
         object-fit: cover;
-        object-position: -6.9rem -9rem;
+        object-position: -4em -9rem;
         height: 25rem;
     }
 
